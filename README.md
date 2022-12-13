@@ -9,7 +9,7 @@
 - [**Excel + Python + Tableau:** Increase Funding For a Houston Non-Profit Using Data Insight](https://github.com/emily1618/Data-Portfolio/tree/main/CEAP)
 - [MySQL + Python + Tableau: Increase Enrollment For a Houston Non-Profit Using Data Insight](https://github.com/emily1618/Data-Portfolio/tree/main/FOC) 
 
-### 📊 Data Projects 
+### 📊 Data Engineer Projects 
 - [**R + Tableau:** How to Increase Market Share with Bellabeat Fitness Data](https://github.com/xtenix88/Google-Data-Analytics-Bellabeat-Case-Study) 
 - [**SQL + R + Tableau:** Using Cyclistic Bike-Share Data to Create New Marketing Campaign](https://github.com/xtenix88/Google-Data-Analytic-Capstone)
 - [**Python:** Product Sales Data Analysis](https://github.com/emily1618/Data-Portfolio/blob/main/EDA/Products_Sales_Analysis.ipynb)
